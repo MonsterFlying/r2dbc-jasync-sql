@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "test",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "r2dbc-jasync-sql",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
